@@ -1,0 +1,12 @@
+@media print {
+    .receipt-popup .btn {
+        display: none;
+        /* position: static;
+        width: 100%;
+        height: auto;
+        background-color: white;
+        padding: 20px;
+        box-shadow: none; */
+    }
+    
+}
